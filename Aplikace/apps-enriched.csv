@@ -1,0 +1,519 @@
+Název,Kategorie,URL,Free Tier,Free Tier Limits,Pricing Plan 1 - Název,Pricing Plan 1 - Cena,Pricing Plan 1 - Měna,Pricing Plan 1 - Billing,Pricing Plan 2 - Název,Pricing Plan 2 - Cena,Pricing Plan 2 - Měna,Pricing Plan 2 - Billing,Pricing Plan 3 - Název,Pricing Plan 3 - Cena,Pricing Plan 3 - Měna,Pricing Plan 3 - Billing,Pricing Summary,Use Cases
+ChatGPT,Chatboti,https://chat.openai.com,True,"Limited messages and uploads, Limited and slower image generation, Limited deep research, Limited memory and context",Plus,$20,USD,monthly,Pro,$200,USD,monthly,Business,$25,USD,monthly,"ChatGPT offers a free tier with limited features, while paid plans (Plus, Pro, Business, and Enterprise) provide more advanced capabilities and support.","ChatGPT je pokročilý AI chatbot, který slouží k interakci s uživateli prostřednictvím textových zpráv. Umožňuje uživatelům klást otázky, získávat informace a vést konverzace na různá témata.
+
+• Uživatel se ptá na konkrétní otázku a ChatGPT poskytuje odpověď.
+• ChatGPT pomáhá uživateli s učením nového jazyka tím, že simuluje konverzaci.
+• Uživatel žádá o rady ohledně psaní životopisu a ChatGPT nabízí tipy a vzory.
+• ChatGPT asistuje při plánování cesty tím, že doporučuje destinace a aktivity.
+• Uživatel se snaží vyřešit technický problém a ChatGPT poskytuje krok za krokem řešení."
+Claude,Chatboti,https://claude.ai,False,,,,,,,,,,,,,,Na této stránce nejsou dostupné žádné informace o cenách a plánech.,"Claude je generativní AI asistent vyvinutý společností Anthropic, navržený tak, aby byl bezpečný, přesný a zabezpečený, a pomáhal vám dosahovat nejlepších výsledků v práci. Umožňuje uživatelům vytvářet a iterovat na webových stránkách, grafikách, dokumentech a kódu během chatu.
+
+• Vytváření a úprava webových stránek a grafiky v reálném čase.
+• Analýza textu a nahrávání obrázků pro lepší porozumění obsahu.
+• Generování kódu a vizualizace dat pro technické projekty.
+• Získávání výsledků webového vyhledávání přímo v chatu pro rychlé informace.
+• Sdílení a spolupráce s týmem na různých projektech a úkolech."
+Gemini,Chatboti,https://gemini.google.com,False,,,,,,,,,,,,,,Na stránce nejsou uvedeny žádné informace o cenách a plánech.,"Gemini je osobní AI asistent, který pomáhá uživatelům s různými úkoly a poskytuje rychlé a efektivní odpovědi na otázky. Aplikace je navržena tak, aby zjednodušila každodenní úkoly a zlepšila produktivitu uživatelů.
+
+• Pomoc při plánování schůzek a organizaci kalendáře.
+• Rychlé vyhledávání informací a odpovědí na otázky.
+• Podpora při psaní e-mailů a dalších textových dokumentů.
+• Návrhy na zlepšení pracovních postupů a efektivity.
+• Poskytování doporučení na základě uživatelských preferencí a historie."
+NotebookLM,Chatboti,https://notebooklm.google.com,False,,,,,,,,,,,,,,,"Tato aplikace umožňuje uživatelům přihlásit se pomocí svého Google účtu a spravovat své osobní nebo pracovní informace. Je navržena tak, aby usnadnila přístup k různým službám a aplikacím prostřednictvím jednoho přihlášení.
+
+• Přihlášení do aplikace pomocí Google účtu pro osobní použití.
+• Vytvoření účtu pro dítě, aby mohlo bezpečně používat internet.
+• Přihlášení do pracovního účtu pro správu firemních informací.
+• Použití režimu hosta pro soukromé přihlášení na veřejném počítači.
+• Obnovení zapomenutého e-mailu pro snadný přístup k účtu."
+Microsoft Copilot,Chatboti,https://copilot.microsoft.com,False,,,,,,,,,,,,,,Na této stránce nejsou uvedeny žádné informace o cenách a plánech.,"Aplikace Message Copilot je navržena pro usnadnění komunikace a zefektivnění psaní. Umožňuje uživatelům rychle reagovat na zprávy, vytvářet obsah a zlepšovat jejich psaní pomocí různých funkcí.
+
+• Rychlé odpovědi na zprávy v chatu.
+• Vytváření obrázků na základě textového popisu.
+• Doporučení produktů na základě uživatelských preferencí.
+• Zlepšení kvality psaní a gramatiky v e-mailech.
+• Psaní prvního návrhu textu pro různé účely."
+Replit,Vibe coding,https://replit.com,True,"10 development apps (with temporary links), Public apps only, Limited build time, without long full autonomy",Starter,Free,USD,monthly,Replit Core,$20,USD,per month billed annually,Teams,$35,USD,per user per month billed annually,Replit offers a free tier with limited features and several paid plans that provide varying levels of access and capabilities for app development.,"Replit je platforma, která umožňuje uživatelům snadno vytvářet aplikace a webové stránky pomocí umělé inteligence a přirozeného jazyka. Je ideální pro jednotlivce i týmy, kteří chtějí rychle prototypovat a vyvíjet software bez nutnosti hlubokých technických znalostí.
+
+• Vytvoření hry pro lidi, kteří mají málo času, která pomáhá spolupracovat na řešení záhad s unikátními schopnostmi postav.
+• Automatizace složitých pracovních postupů pomocí agentů, které lze integrovat s aplikacemi jako Slack nebo e-mail.
+• Vývoj interních nástrojů, které zefektivňují pracovní procesy a šetří čas zaměstnanců.
+• Vytvoření prototypu aplikace, který pomohl získat financování a rozšířit podnikání.
+• Rychlé nasazení produkčních aplikací, které šetří náklady a zvyšují produktivitu."
+Lovable,Vibe coding,https://lovable.dev,True,"5 daily credits (up to 30/month), Public projects, Unlimited collaborators, 5 lovable.app domains",Pro,$25,USD,monthly,Business,$50,USD,monthly,Enterprise,Custom,USD,Flexible plans,Lovable offers a free tier with limited features and several paid plans designed for teams of different sizes and needs.,"Aplikace Lovable umožňuje uživatelům vytvářet aplikace a webové stránky pomocí konverzace s umělou inteligencí. Je ideální pro jednotlivce i firmy, kteří chtějí rychle prototypovat a realizovat své nápady bez nutnosti hlubokých technických znalostí.
+
+• Vytváření osobních webových stránek pro prezentaci portfolia.
+• Vývoj interních nástrojů pro zefektivnění pracovních procesů v podniku.
+• Tvorba aplikací pro správu událostí a rezervace.
+• Vytváření spotřebitelských aplikací pro sledování zdraví a wellness.
+• Prototypování B2B aplikací pro zlepšení komunikace mezi firmami."
+Bolt,Vibe coding,https://bolt.new,True,"300K tokens daily limit, 1M tokens per month",Free,$0,USD,monthly,Pro,$25,USD,monthly,Teams,$30,USD,monthly,The pricing model includes a free tier with limited tokens and several paid plans that offer increasing features and token limits.,"Aplikace Bolt umožňuje uživatelům vytvářet úžasné aplikace a webové stránky pomocí AI. Umožňuje rychlé prototypování a testování nápadů, což usnadňuje práci produktovým manažerům, podnikatelům a dalším uživatelům.
+
+• Produktoví manažeři mohou během několika hodin přejít od nápadu k prototypu a testovat své myšlenky se svým týmem.
+• Podnikatelé mohou spustit plnohodnotný podnik během několika dní, od přistávací stránky po produkt, vše v jednom toku.
+• Markeři mohou rychle vytvářet vysoce výkonné kampaně s integrovaným SEO a hostingem.
+• Agentury mohou zvýšit svůj dopad a dodávat více projektů rychleji, aniž by musely zvyšovat počet zaměstnanců.
+• Studenti a tvůrci se mohou učit praxí a přetvářet nápady z hodin nebo vedlejších projektů na plně funkční aplikace."
+Macaly,Vibe coding,https://macaly.com,True,"Up to 1M credits daily, public chats, macaly-app.com domain, form submissions, databases built-in, analytics dashboard, SEO tools",Pro,$25 /mo,USD,monthly,Enterprise,Custom,USD,custom,Hosting,$5 /mo,USD,monthly,"Macaly offers a free tier for basic usage and several paid plans including Pro and Enterprise, with features scaling according to the plan.","Macaly je platforma, která umožňuje uživatelům rychle a snadno vytvářet webové stránky na základě jednoduchých pokynů. Umožňuje generovat, spouštět a rozvíjet online podnikání během několika minut.
+
+• Vytvoření landing page pro startup během několika minut.
+• Návrh osobní webové stránky pro profesionální prezentaci.
+• Vytvoření portfolia pro umělce nebo designéra.
+• Založení webové stránky pro restauraci s online rezervacemi.
+• Vytvoření stránky pro událost s možností registrace."
+Cursor,Vibe coding,https://www.cursor.com,True,"Includes one-week Pro trial, limited Agent requests, and limited Tab completions.",Hobby,Free,USD,monthly,Pro,$20 / mo.,USD,monthly,Pro+,$60 / mo.,USD,monthly,"Cursor offers a variety of pricing plans including free and paid options for individuals and teams, with features scaling based on the selected plan.","Cursor je aplikace navržená pro zvýšení produktivity při programování pomocí umělé inteligence. Umožňuje uživatelům efektivně kódovat, provádět revize kódu a integrovat se s různými nástroji pro spolupráci.
+
+• Automatizace kódování pomocí AI asistenta, který navrhuje kód na základě uživatelských pokynů.
+• Integrace s GitHubem pro snadné provádění revizí kódu a sledování změn.
+• Použití AI pro generování dokumentace kódu na základě jeho struktury a funkcionality.
+• Využití pokročilého autocompletion pro urychlení psaní kódu a snížení chybovosti.
+• Podpora týmové spolupráce prostřednictvím integrace s nástroji jako Slack pro efektivní komunikaci."
+Relay,Automatizace s AI,https://relay.app,True,Free tier includes limited access to features and usage.,Basic,$20,USD,monthly,Pro,$50,USD,monthly,Enterprise,Custom,USD,annual,"Relay.app offers a free tier with limited features, along with several paid plans that provide additional features and support.","Relay.app je aplikace, která umožňuje snadné vytváření a správu AI agentů pro různé obchodní úkoly. Uživatelé mohou automatizovat procesy, analyzovat data a zjednodušit pracovní postupy pomocí intuitivního rozhraní.
+
+• Kvalifikace leadů pomocí automatizovaných otázek.
+• Tvorba příspěvků na sociální média na základě nápadů v Google Sheets.
+• Automatizované shrnutí schůzek a následné e-maily.
+• Sledování SEO pozic webových stránek v Google vyhledávání.
+• Denní shrnutí podpůrných problémů s automatickými souhrny."
+Make,Automatizace s AI,https://www.make.com,True,"Up to 1,000 credits/month",Free,$0,USD,monthly,Core,$9,USD,monthly,Pro,$16,USD,monthly,"Make offers a variety of plans to cater to different automation needs, starting with a free tier and scaling up to custom enterprise solutions.","Aplikace Make je vizuální platforma pro orchestraci, která umožňuje týmům vytvářet, zrychlovat a škálovat procesy pomocí umělé inteligence a automatizace. Pomáhá firmám dosáhnout plného potenciálu tím, že zjednodušuje složité úkoly a zajišťuje efektivní integraci různých aplikací.
+
+• Automatizace správy incidentů v IT pro rychlejší řešení problémů.
+• Vytváření personalizovaných marketingových kampaní pomocí AI analýzy dat.
+• Integrace různých aplikací pro zjednodušení pracovních procesů v týmu.
+• Monitorování výkonu automatizovaných procesů v reálném čase pro optimalizaci efektivity.
+• Zrychlení procesu zákaznické podpory pomocí AI agentů pro rychlé odpovědi."
+Zapier,Automatizace s AI,https://zapier.com,True,100 tasks per month,Free,$0 /mo,USD,monthly,Professional,$19.99 /mo,USD,annual,Team,$69 /mo,USD,annual,"Zapier offers a free tier with limited tasks and several paid plans that provide additional features and capabilities, with discounts for annual billing.","Zapier je platforma pro automatizaci pracovních toků, která umožňuje uživatelům snadno propojit různé aplikace a služby. Pomocí AI a automatizace mohou týmy zefektivnit své procesy a ušetřit čas na rutinní úkoly.
+
+• Automatizace IT podpory pomocí AI chatbotů, kteří odpovídají na časté dotazy.
+• Zpracování a kvalifikace leadů automaticky bez ztráty příležitosti.
+• Generování a odesílání týdenních zpráv pomocí AI.
+• Automatizace onboardingu zaměstnanců s pomocí AI asistenta.
+• Zpracování zákaznických dotazů a požadavků pomocí AI agentů."
+Bardeen,Komunikace a marketing,https://www.bardeen.ai,True,100 credits per month to build and test automations.,Starter,$129,USD,monthly,Starter,$99,USD,annually,Teams,$500,USD,monthly,Bardeen offers a free plan with limited credits and several paid plans that provide increasing levels of credits and features.,"Bardeen je platforma pro automatizaci a workflow, která pomáhá týmům GTM eliminovat manuální úkoly a zjednodušit procesy. Spojuje a integruje oblíbené nástroje, což umožňuje automatizaci opakujících se pracovních postupů, správu dat napříč systémy a zlepšení spolupráce.
+
+• Automatizace objevování leadů a jejich zadávání do CRM.
+• Příprava na zákaznické schůzky a analýza metrik zapojení.
+• Sledování stavu leadů a zajištění přesnosti dat.
+• Vytváření zpráv o konkurenci a sledování zdraví pipeline.
+• Generování denních/týdenních shrnutí výkonu týmu."
+Gumloop,AI agenti,https://gumloop.com,True,"2k credits/month, 1 Seat, 1 Active Trigger, 2 Concurrent Runs, Gummie Agent, Forum Support, Unlimited Nodes, Unlimited Flows",Solo,$37,USD,monthly,Team,$244,USD,monthly,Enterprise,Custom Pricing,USD,custom,"Gumloop offers a free tier with limited credits and features, along with paid plans that scale based on the number of credits and additional features.","Gumloop je platforma pro automatizaci, která umožňuje uživatelům snadno vytvářet pracovní toky pomocí intuitivního rozhraní s funkcí drag and drop. Umožňuje integraci dat, aplikací a umělé inteligence pro zefektivnění pracovních procesů.
+
+• Automatizace marketingových kampaní pomocí AI pro generování obsahu a analýzu dat.
+• Vytváření a odesílání reportů o výkonnosti sociálních médií pomocí AI.
+• Automatizace správy zákaznických tiketů a prioritizace pomocí AI.
+• Generování a odesílání e-mailů pro plánování schůzek s vedením.
+• Automatizace aktualizací v Salesforce a dalších CRM systémech."
+Runbear,AI agenti,https://runbear.io,True,7-Day Free Trial available for all plans.,Individual,$15 / month,USD,monthly,Team,$79 / month,USD,monthly,Business,$319 / month,USD,monthly,"Runbear offers a variety of pricing plans suitable for individuals, teams, and enterprises, with a free trial available for all plans.","Runbear je aplikace, která umožňuje vytvářet AI agenty, kteří pracují jako členové vašeho týmu. Bez nutnosti programování můžete snadno automatizovat opakující se úkoly a zefektivnit pracovní procesy přímo v nástrojích, které již používáte, jako je Slack nebo Teams.
+
+• Propojení zákaznických podpůrných tiketů s existujícími problémy produktu pomocí AI.
+• Automatizace třídění e-mailů pomocí AI agenta, který shrnuje a směruje zprávy.
+• Získání okamžitých odpovědí přímo v Zendesk pomocí AI agenta.
+• Automatizace reportování klíčových ukazatelů výkonnosti (KPI) pomocí AI agentů.
+• Vytvoření chatbotu pro zjednodušení onboardingového procesu nových členů týmu."
+Relevance AI,AI agenti,https://relevanceai.com,True,"200 Actions per month, 1 User & 1 Project, 30-Day Task History, 2000+ Integrations, Marketplace Access, Community Forum, SOC 2 & GDPR Compliance",Free,$0,USD,monthly,Pro,$19,USD,monthly,Team,$234,USD,monthly,"The pricing model includes a free tier with limited actions and features, while paid plans offer more actions, users, and advanced features.","Aplikace Relevance AI umožňuje týmům vytvářet a spravovat AI pracovní síly, které vykonávají úkoly s lidskou kvalitou. Uživatelé mohou snadno přizpůsobit AI agenty pro různé obchodní potřeby a zefektivnit tak své pracovní procesy.
+
+• Vytváření AI agentů pro automatizaci prodeje a marketingu.
+• Použití AI agentů pro výzkum a přípravu na obchodní schůzky.
+• Nasazení vlastních AI agentů pro specifické úkoly bez nutnosti programování.
+• Zlepšení efektivity zákaznické podpory pomocí AI agentů.
+• Využití AI pro analýzu dat a generování reportů."
+Simular,AI agenti,https://www.simular.ai,False,,Simular Plus,$20,USD,monthly,Simular Pro,$500,USD,monthly,Simular Enterprise,Contact for price,USD,monthly,"Simular offers three pricing plans: Plus for individuals at $20/month, Pro for businesses at $500/month, and Enterprise with custom pricing for large-scale needs.","Simular je pokročilá platforma pro automatizaci počítačových úloh, která umožňuje uživatelům efektivně řídit a optimalizovat pracovní procesy. Díky svým AI agentům, kteří se učí z interakcí s uživateli, usnadňuje každodenní úkoly a zvyšuje produktivitu.
+
+• Automatizace rutinních úkolů na desktopu, jako je správa e-mailů a plánování schůzek.
+• Generování podcastů z aktuálních zpráv během několika minut.
+• Porovnávání cen produktů z různých zdrojů pro efektivní nákup.
+• Získávání informací o tarifech a daních v reálném čase.
+• Plánování akcí, jako jsou narozeninové oslavy, s pomocí automatizovaných nákupních seznamů."
+Suna,AI agenti,https://www.suna.so,False,,,,,,,,,,,,,,Na této stránce nejsou uvedeny žádné informace o cenách a plánech.,"Aplikace Suna je navržena pro efektivní správu a analýzu dat. Umožňuje uživatelům snadno organizovat, vizualizovat a sdílet informace, což zjednodušuje rozhodovací procesy.
+
+• Uživatelé mohou vytvářet interaktivní prezentace dat pro obchodní schůzky.
+• Aplikace umožňuje týmům spolupracovat na projektech a sdílet aktualizace v reálném čase.
+• Suna může být použita k analýze trendů v datech a generování reportů pro vedení.
+• Uživatelé mohou importovat data z různých zdrojů a provádět jejich analýzu v jednom rozhraní.
+• Aplikace podporuje integraci s dalšími nástroji pro zefektivnění pracovních procesů."
+Synthesia,AI avatary,https://www.synthesia.io,True,3 minutes of video/month,Basic,$0/mo,USD,monthly,Starter,$29/mo,USD,monthly,Creator,$89/mo,USD,monthly,"Synthesia offers a free tier with limited video generation capabilities, and several paid plans that provide increasing features and video generation limits.","Synthesia je platforma pro snadné vytváření, lokalizaci a publikaci AI videí. Umožňuje uživatelům vytvářet profesionální videa bez potřeby natáčení a produkce, což zefektivňuje proces školení a interní komunikace.
+
+• Vytváření školících videí pro zaměstnance, které lze snadno aktualizovat a přizpůsobit.
+• Překlad videí do více než 140 jazyků pro globální publikum.
+• Vytváření marketingového obsahu s AI avatarem pro zvýšení angažovanosti.
+• Zjednodušení interní komunikace pomocí rychlého vytváření videí pro oznámení a aktualizace.
+• Automatizace procesu vytváření videí pro školení a compliance, což šetří čas a náklady."
+Heygen,AI avatary,https://www.heygen.com,True,"3 videos per month, videos up to 3-mins, 720p video export, standard video processing, access to Avatar IV video generation.",Free,$0/mo,USD,monthly,Creator,$29/mo,USD,monthly,Team,$39/seat/mo,USD,monthly,"HeyGen offers a free tier for basic video generation and two paid plans for creators and teams, with varying features and pricing.","HeyGen je pokročilý generátor videí založený na umělé inteligenci, který umožňuje snadno a rychle vytvářet videa z textu, obrázků nebo zvukových klipů. Tento nástroj automatizuje celý proces produkce videa, včetně hlasového překladu a přizpůsobení stylu, což usnadňuje tvorbu obsahu pro různé účely.
+
+• Vytváření školících videí pro zaměstnance a zajištění jejich rozvoje.
+• Produkování marketingových videí z blogových příspěvků nebo PDF dokumentů.
+• Personalizovaná videa pro prodejní prezentace a následné kontakty se zákazníky.
+• Rychlá lokalizace videí do více než 175 jazyků pro globální publikum.
+• Vytváření videí pro sociální média, jako je TikTok, bez potřeby zkušeností s editací."
+Opus Clip,Editace videí,https://opus.pro,True,No credit card required. Free clips every month.,Free,$0,USD,monthly,Starter,$15/mo,USD,monthly,Pro,$29/mo,USD,monthly,"OpusClip offers a free tier with limited features and three paid plans (Starter, Pro, and Business) with increasing capabilities and pricing.","OpusClip je revoluční aplikace, která využívá umělou inteligenci k automatizaci procesu úpravy videí. Umožňuje uživatelům rychle a efektivně vytvářet krátké klipy z dlouhých videí, což zvyšuje jejich dosah a angažovanost na sociálních médiích.
+
+• Vytváření virálních klipů z dlouhých videí pro sociální média.
+• Automatizace procesu úpravy videí pro vlogy a podcasty.
+• Zlepšení sledovanosti a angažovanosti díky rychlému generování krátkých videí.
+• Použití AI pro přizpůsobení videí různým platformám a formátům.
+• Zvýšení počtu zhlédnutí a interakcí díky efektivnímu repurposing obsahu."
+Descript,Editace videí,https://www.descript.com,True,Get started on your creative journey with text-based editing and give our AI tools a spin.,Hobbyist,$16,USD,per person / month,Creator,$24,USD,per person / month,Business,$50,USD,per person / month,"Descript offers a free tier for basic features, with paid plans starting at $16 per month for the Hobbyist plan, scaling up to custom pricing for enterprise solutions.","Descript je revoluční aplikace pro úpravu videa, která umožňuje uživatelům snadno a rychle editovat videa pomocí textového rozhraní. Díky pokročilým AI nástrojům a intuitivnímu ovládání mohou uživatelé vytvářet profesionální videa bez nutnosti složitého školení.
+
+• Uživatelé mohou vytvářet marketingová videa pro propagaci svých produktů.
+• Vzdělávací instituce mohou snadno vytvářet školící videa pro interní školení zaměstnanců.
+• Podcasteri mohou nahrávat a editovat své podcasty s využitím pokročilých funkcí pro úpravu zvuku.
+• Tvořitelé obsahu mohou rychle generovat klipy pro sociální média pomocí AI nástrojů.
+• Firmy mohou vytvářet videa pro zákaznickou podporu, aby efektivněji komunikovaly s klienty."
+Captions,Editace videí,https://captions.ai,True,"The free version includes basic tools like trimming, transitions, and some media library assets, but has a more limited feature set compared to paid plans.",Pro,$9.99/mo*,USD,monthly,Max,$24.99/mo,USD,monthly,Scale,$69.99/mo,USD,monthly,"Captions offers a free tier with limited features, while paid plans provide advanced AI editing tools and additional support.","Aplikace Captions je revoluční nástroj pro tvorbu krátkých videí, který využívá umělou inteligenci k automatizaci editace a překladu. Umožňuje uživatelům snadno vytvářet a upravovat videa s realistickým pohybem rtů a podporou více než 28 jazyků.
+
+• Uživatelé mohou rychle generovat videa pomocí AI, která automaticky editují obsah v reálném čase.
+• Aplikace umožňuje překlad videí do více než 28 jazyků s odpovídajícím pohybem rtů.
+• Tvůrci obsahu mohou využít 3D avatara pro personalizaci svých videí.
+• Uživatelé mohou snadno sdílet svá videa na sociálních sítích a oslovit tak širší publikum.
+• Aplikace je ideální pro marketingové specialisty, kteří chtějí vytvářet atraktivní videa pro propagaci svých produktů."
+Clipchamp,Editace videí,https://www.microsoft.com/en-us/microsoft-365/clipchamp,True,"For 1 person, unlimited watermark-free exports, up to 1080p (HD) export resolution, editing tools including trim, crop, and speed control, free filters, effects, and stock media including audio, video, graphics, and stickers, image background removal.",Microsoft 365 Personal,$9.99,USD,monthly,Microsoft 365 Family,$12.99,USD,monthly,Microsoft 365 Business Standard,$12.50,USD,monthly,"Microsoft Clipchamp offers a free tier with essential features for individual use, along with various paid plans for personal, family, and business needs.","Microsoft Clipchamp je intuitivní video editor, který umožňuje snadno vytvářet, sdílet a upravovat videa pro práci, školu a osobní projekty. Aplikace nabízí širokou škálu nástrojů pro úpravy, včetně AI text-to-speech, automatických titulků a šablon, což usnadňuje tvorbu profesionálně vypadajících videí i pro začátečníky.
+
+• Úprava videí pro pracovní prezentace a školení.
+• Vytváření vzdělávacích videí pro studenty a učitele.
+• Přidávání titulků a přepisů pro zajištění přístupnosti videí.
+• Sledování výkonu videí pomocí analytiky pro optimalizaci obsahu.
+• Sdílení videí v rámci pracovních nástrojů jako Teams a SharePoint."
+Skyreels,Tvorba videí,https://www.skyreels.ai,True,"7-Day Free Trial + 1,000 FREE credits",Basic,$7.9,USD,monthly,Standard,$28,USD,monthly,Pro,$76,USD,monthly,"SkyReels offers a free tier with a 7-day trial and three paid plans: Basic, Standard, and Pro, each with increasing features and credit renewals.","SkyReels je komplexní AI studio, které umožňuje uživatelům snadno vytvářet a editovat videa, obrázky a hudbu pomocí pokročilých AI modelů a šablon. Platforma nabízí intuitivní drag-and-drop rozhraní, které usnadňuje kreativní proces a umožňuje uživatelům soustředit se na uměleckou stránku jejich projektů.
+
+• Vytváření dlouhých, kinematografických hudebních videí s unikátním stylem.
+• Zrychlení kreativního procesu pro filmaře, což umožňuje testování různých variant a narativů bez rizika.
+• Použití funkce Chat Story Music Video pro rychlé přetvoření nápadů na hotové klipy.
+• Vytváření profesionálních reklamních videí s intuitivním uživatelským rozhraním, které usnadňuje práci i začátečníkům.
+• Generování originální hudby na základě textu, nálady nebo značky."
+TwelveLabs,Tvorba videí,https://www.twelvelabs.io,True,"Up to 10 hours of indexing, 50 API calls per day, and various other free features.",Free,Free,USD,monthly,Developer,Pay as you go,USD,per use,Enterprise,Custom,USD,custom,"TwelveLabs offers a free tier with limited features, followed by a pay-as-you-go Developer plan and a customizable Enterprise plan.","TwelveLabs je aplikace, která využívá umělou inteligenci k analýze a porozumění video obsahu. Umožňuje uživatelům vyhledávat, analyzovat a automatizovat pracovní postupy napříč celým video obsahem.
+
+• Vyhledávání konkrétních scén v videu pomocí přirozeného jazyka.
+• Zrychlení produkce v mediálním a zábavním průmyslu pomocí AI.
+• Identifikace kritických událostí v reálném čase pro vládní a bezpečnostní účely.
+• Zlepšení efektivity reklamních kampaní pomocí AI analýzy videa.
+• Vytváření personalizovaného obsahu pro fanoušky sportovních týmů pomocí generativní AI."
+Google Vids,Tvorba videí,https://workspace.google.com/products/vids,True,14-day free trial available for new users.,Business Starter,$3.50,USD,monthly,Business Standard,$7,USD,monthly,Business Plus,$15.40,USD,monthly,"Google Workspace offers a range of plans starting from $3.50 per user per month, with a 14-day free trial available for new users.","Google Vids je aplikace, která umožňuje snadné a efektivní vytváření videí pro pracovní účely. Pomocí umělé inteligence a spolupráce týmů můžete vytvářet poutavé příběhy a sdílet je s ostatními.
+
+• Vytváření školících videí pro zaměstnance pomocí nahrávání obrazovky a prezentací.
+• Spolupráce na projektech s týmem prostřednictvím sdílených videí a komentářů.
+• Vytváření marketingových videí s využitím royalty-free médií a šablon.
+• Personalizace videí pro firemní oznámení a aktualizace schůzek.
+• Generování videí z textových promptů pro rychlé a efektivní sdílení informací."
+Runway ML,Tvorba videí,https://runwayml.com,True,"Includes 125 credits (one time), 125 credits = 25s of Gen-4 Turbo or Gen-3 Alpha Turbo",Standard,$12,USD,per user per month,Pro,$28,USD,per user per month,Unlimited,$76,USD,per user per month,Runway offers a free tier with limited credits and several paid plans that provide additional features and credits for individuals and teams.,"Runway je nový kreativní nástroj, který poskytuje vše potřebné k generování videí, obrázků nebo jakéhokoli obsahu, který si přejete. S desítkami nástrojů a nekonečnými možnostmi vytváření, Runway mění způsob, jakým se práce vytváří napříč všemi odvětvími.
+
+• Odstranění nežádoucích prvků z videa pomocí jednoduchého příkazu.
+• Transformace produktových fotografií bez nutnosti nového natáčení.
+• Zvýšení rozlišení videa jedním kliknutím.
+• Přidání dialogu postavám tím, že napíšete, co by měly říct.
+• Změna stylu obrázku a jeho přetvoření do různých uměleckých nálad."
+Kling AI,Tvorba videí,https://klingai.com,False,,Basic,$20,USD,monthly,Pro,$50,USD,monthly,,,,,The pricing model includes a Basic plan at $20 per month and a Pro plan at $50 per month.,"Kling AI je platforma, která umožňuje uživatelům generovat různé typy obsahu pomocí umělé inteligence. Aplikace nabízí nástroje pro generaci videí, obrázků a zvuků, což usnadňuje kreativní proces pro jednotlivce i firmy.
+
+• Generování videí pro marketingové kampaně.
+• Vytváření originálních obrázků pro sociální média.
+• Generování zvukových efektů pro videohry.
+• Použití AI pro automatizaci grafického designu.
+• Vytváření personalizovaných prezentací pro obchodní jednání."
+Higgsfield AI,Tvorba videí,https://higgsfield.ai,True,Limited use,Basic,$9/month,USD,Billed annually,Pro,$29,USD,Billed annually,Ultimate,$49,USD,Billed annually,The pricing model includes a free tier with limited use and several paid plans that offer increasing credits and features.,"Tato aplikace slouží k vytváření a generování videí s pokročilými vizuálními efekty a animacemi. Umožňuje uživatelům snadno vytvářet profesionální videa s různými scénáři a efekty, které mohou být použity pro marketing, zábavu nebo osobní projekty.
+
+• Generování videí s neomezenými efekty pro marketingové kampaně.
+• Vytváření personalizovaných videí pro oslavy a události.
+• Použití pokročilých animací pro prezentaci produktů.
+• Vytváření zábavných videí pro sociální média s trendy efekty.
+• Generování videí s realistickými vizuálními efekty pro filmové projekty."
+ElevenLabs,Audio a hlas,https://elevenlabs.io,True,"10k credits/month, requires attribution and does not have commercial licensing",Free,$0 per month,USD,monthly,Starter,$5 per month,USD,monthly,Creator,$11 per month (first month 50% off),USD,monthly,"Eleven Labs offers a variety of pricing plans ranging from a free tier to enterprise solutions, catering to different needs and usage levels.","ElevenLabs je AI platforma zaměřená na generování realistického hlasu a řeči pomocí pokročilé technologie text-to-speech (TTS), speech-to-text (STT), klonování hlasu a konverzační AI agenty s latencí pod 100 ms. Umožňuje tvorbu profesionálních voiceoverů, lokalizaci obsahu do různých jazyků a vytváření hlasových agentů pro real-time konverzace.
+
+• Generování voiceoverů pro YouTube a TikTok videa bez nutnosti nahrávání vlastního hlasu
+• Tvorba podcastů a audioknih s různými hlasy a emocemi pro škálovatelnou produkci
+• Lokalizace videí a reklamních spotů do různých jazyků s přirozenou výslovností
+• Vytváření hlasových asistentů a IVR systémů pro zákaznický servis s latencí pod 100 ms
+• Klonování vlastního hlasu z audio vzorků pro personalizované audio obsahy"
+Play.ht,Audio a hlas,https://play.ht,True,"Allows limited access to features for testing purposes, with restrictions on the number of words converted to audio files.",Basic,$20,USD,monthly,Pro,$50,USD,monthly,Enterprise,Custom pricing,USD,annual,"PlayAI offers a free tier for limited use, with paid plans starting at $20 per month for additional features and capabilities.","Aplikace PlayAI je pokročilý generátor hlasu, který převádí text na přirozeně znějící řeč v reálném čase. Umožňuje uživatelům vytvářet realistické hlasové nahrávky pro různé účely, jako jsou videa, audioknihy a e-learning.
+
+• Vytváření profesionálních hlasových nahrávek pro marketingové videa.
+• Generování audioknih s realistickými hlasy pro lepší zážitek posluchačů.
+• Použití AI hlasů pro automatizaci IVR systémů a zlepšení zákaznického servisu.
+• Vytváření e-learningových materiálů s přizpůsobenými hlasy pro výuku.
+• Nahrávání podcastů s více mluvčími pro přirozenější konverzaci."
+Speechify,Audio a hlas,https://speechify.com,True,Listen at speeds up to 1.5x with 10 robotic sounding voices and text to speech features only.,Monthly,$29.00/Month,USD,monthly,Annual,$11.58/Month,USD,yearly,,,,,Speechify offers a free tier with limited features and two paid plans: a monthly plan at $29.00 and an annual plan at $11.58 per month.,"Speechify je aplikace, která umožňuje uživatelům poslouchat texty, jako jsou knihy, PDF dokumenty a články, přičemž využívá umělou inteligenci pro přirozené čtení. Pomáhá lidem číst rychleji a efektivněji, což je užitečné pro studenty, profesionály a každého, kdo chce absorbovat informace na cestách.
+
+• Poslech knih během dojíždění do práce.
+• Studium složitých materiálů pomocí poslechu a textového zvýraznění.
+• Rychlé procházení PDF dokumentů a e-mailů.
+• Převod textu na podcasty pro snadnější učení.
+• Použití aplikace pro zlepšení čtení u lidí s dyslexií."
+Vapi.ai,Audio a hlas,https://www.vapi.ai,True,Start with $10 free,Pay As You Go,$10,USD,monthly,Enterprise,Contact sales,USD,annual,,,,,"Vapi offers a pay-as-you-go pricing model with a free tier starting at $10, and an Enterprise plan available through annual contracts.","Aplikace Vapi umožňuje vývojářům snadno vytvářet a nasazovat hlasové AI asistenty. Je navržena tak, aby zjednodušila integraci hlasových technologií do různých aplikací a systémů, čímž zefektivňuje komunikaci a operace.
+
+• Zpracování více než 400 000 příchozích hovorů denně.
+• Úspora stovek hodin inženýrské práce měsíčně díky automatizaci hovorů.
+• Integrace s více než 40 aplikacemi pro snadné propojení s existujícími systémy.
+• Vytváření vlastních pracovních postupů pomocí předpřipravených šablon.
+• Testování různých variant promptů a hlasů pro optimalizaci výkonu."
+Hume.ai,Audio a hlas,https://www.hume.ai,True,"10,000 characters (~10 minutes) per month, 15 requests per minute, 1 concurrent connection, Discord support.",Free,$0/ month,USD,monthly,Starter,$3/ month,USD,monthly,Creator,$7/ month,USD,monthly,"Hume.ai offers a variety of pricing plans starting from a free tier to custom enterprise solutions, catering to different usage needs and scales.","Hume AI je aplikace zaměřená na realistickou a expresivní hlasovou umělou inteligenci, která umožňuje tvůrcům, vývojářům a podnikům vytvářet audioknihy, podcasty, konverzační agenty a další. Díky pokročilým modelům text-to-speech a emocionální inteligenci poskytuje uživatelům nástroje pro generování vysoce kvalitního zvuku.
+
+• Vytváření audioknih s více postavami a přímou publikací.
+• Generování hlasových komentářů pro videa a reklamy.
+• Tvorba podcastů se skutečným dialogem mezi více mluvčími.
+• Integrace realistických AI hlasů do herních postav a AI asistentů.
+• Poskytování realistických hlasů pro zákaznickou podporu a prodejní agenty."
+Synthflow,Audio a hlas,https://synthflow.ai,False,,Starter,$29,USD,monthly,Pro,$450,USD,monthly,Growth,$900,USD,monthly,"Pricing is structured to accommodate various business needs, with plans ranging from a starter option for small-scale use to an enterprise solution for large organizations.","Synthflow je no-code platforma pro vytváření AI hlasových agentů, kteří zvládají automatizovat telefonní hovory - inbound i outbound. Zaměřuje se na business automatizaci s důrazem na sales, zákaznický servis a appointment scheduling, umožňuje škálovat telefonický outreach bez nárůstu týmu.
+
+• Automatický screening a kvalifikace leadů prostřednictvím outbound prodejních hovorů
+• 24/7 zákaznická podpora s automatickým odpovídáním na časté dotazy a zpracováním objednávek
+• Automatizace rezervací a správy schůzek s potvrzováním a přeplánováním termínů
+• Lead nurturing a follow-up hovory pro sales týmy bez nutnosti manuálního volání
+• Inteligentní směrování hovorů pacientů na správná oddělení ve zdravotnictví"
+Ideogram,Obrázky a design,https://ideogram.ai,True,10 free credits per week.,Basic,$7,USD,monthly,Plus,$15,USD,monthly,Pro,$42,USD,monthly,"Ideogram offers a free tier with limited credits and three paid plans (Basic, Plus, Pro) with increasing features and priority credits.","Aplikace Ideogram slouží k vytváření a generování různých typů vizuálního obsahu, jako jsou loga, plakáty a trička. Umožňuje uživatelům nahrávat obrázky a přetvářet je na kreativní projekty pomocí různých nástrojů a šablon.
+
+• Vytváření personalizovaných triček s vlastními designy.
+• Generování originálních plakátů pro akce nebo kampaně.
+• Nahrávání obrázků a jejich úprava pro marketingové účely.
+• Tvorba loga pro novou značku nebo podnik.
+• Vytváření vizuálního obsahu pro sociální média a online prezentace."
+Photoroom,Obrázky a design,https://www.photoroom.com,True,"250 exports/month without watermark, limited access to some AI features.",Free,Free,USD,monthly,Pro,$7.50,USD,monthly,Max,$20.99,USD,monthly,"Photoroom offers a free tier with limited features and several paid plans designed for different user needs, including Pro, Max, and Enterprise options.","Photoroom je aplikace určená pro snadné a efektivní úpravy fotografií, která umožňuje uživatelům vytvářet profesionální vizuály pro produkty. Pomocí umělé inteligence dokáže odstranit pozadí, generovat realistické obrázky a zlepšit kvalitu produktových fotografií.
+
+• Vytváření vizuálů pro produktové listingy.
+• Generování reklamních vizuálů pro online kampaně.
+• Zvýšení prodeje prostřednictvím atraktivních produktových fotografií.
+• Tvorba příspěvků na sociální média s profesionálním vzhledem.
+• Zlepšení viditelnosti značky pomocí kvalitních marketingových materiálů."
+ChatGPT 4o,Obrázky a design,https://chat.openai.com,True,"Limited messages and uploads, Limited and slower image generation, Limited deep research, Limited memory and context",Plus,$20,USD,monthly,Pro,$200,USD,monthly,Business,$25,USD,monthly,"The pricing model includes a free tier with limited features and several paid plans (Plus, Pro, Business, and Enterprise) that offer increasing levels of access and capabilities.","ChatGPT je pokročilý AI chatbot, který slouží k interakci s uživateli prostřednictvím textových zpráv. Umožňuje uživatelům klást otázky, získávat informace a vyhledávat odpovědi na různé dotazy.
+
+• Uživatel se ptá na konkrétní historickou událost a ChatGPT poskytuje podrobnosti.
+• Student používá ChatGPT k vysvětlení složitého matematického konceptu.
+• Zákazník se obrací na ChatGPT pro doporučení produktů na základě svých preferencí.
+• Uživatel žádá o pomoc při psaní eseje a ChatGPT nabízí strukturu a nápady.
+• ChatGPT pomáhá uživateli s učením nového jazyka tím, že poskytuje překlady a gramatická pravidla."
+FloraFauna AI,Obrázky a design,https://www.florafauna.ai,True,"500 starter credits, 250 text generations, 14 image generations, 2 video generations",Pro,$16,USD,yearly,Agency Standard,$48,USD,yearly,Enterprise,Custom pricing,USD,custom,The pricing model includes a free tier with limited credits and several paid plans that scale with team size and usage.,"FLORA je kreativní platforma, která spojuje generativní pracovní postupy pro umělce a designéry. Umožňuje uživatelům prozkoumávat možnosti a zvyšovat jejich kreativní výstupy pomocí umělé inteligence.
+
+• Týmy z Pentagramu a Lionsgate používají FLORA k prozkoumání nových kreativních možností.
+• Uživatelé mohou testovat prostředí, přidávat nebo odstraňovat objekty a přetvářet celé scény.
+• FLORA umožňuje rychlé iterace a spolupráci v reálném čase pro efektivní vývoj nápadů.
+• Platforma generuje konzistentní a značkový obsah pro marketingové kampaně.
+• FLORA je využívána pro vytváření produkčně kvalitních videí a obrázků v různých kreativních odvětvích."
+Canva,Obrázky a design,https://www.canva.com,True,"No cost, just creativity. Available for one person with limited features.",Free,US$0,USD,yearly,Pro,US$120,USD,yearly,Business,US$200,USD,yearly,"Canva offers a free tier for individuals with limited features, while paid plans provide access to premium tools and resources for individuals and businesses.","Canva je aplikace navržená pro snadné a efektivní vytváření grafiky, prezentací a dalších vizuálních materiálů. Umožňuje uživatelům využívat širokou škálu nástrojů a šablon pro kreativní projekty.
+
+• Vytváření profesionálních prezentací s pomocí AI nástrojů.
+• Navrhování marketingových materiálů a reklam pomocí Canva Grow.
+• Úprava a editace videí s Video 2.0 pro sociální média.
+• Tvorba a design e-mailových kampaní pro efektivní komunikaci.
+• Tisk a design produktů s bezplatnou dodávkou přímo z aplikace."
+Comfy Workflows,Obrázky a design,https://comfyworkflows.com/workflows,False,,,,,,,,,,,,,,Tato stránka neobsahuje žádné informace o cenách a plánech.,"Comfy Workflows je aplikace určená pro snadné a efektivní vytváření a sdílení pracovních postupů pro generování a úpravu obrázků a videí. Umožňuje uživatelům využívat různé techniky, jako je inpainting, upscale a generování obrázků pomocí AI.
+
+• Vytváření pracovních postupů pro generování obrázků s různými efekty.
+• Úprava videí pomocí AI technik pro zlepšení kvality.
+• Generování variací obrázků na základě zadaných parametrů.
+• Odstranění objektů z obrázků pomocí jedním kliknutím.
+• Restaurování historických fotografií a jejich barevné úpravy."
+Gamma,Prezentace,https://gamma.app,True,"Limited AI creations, 400 credits at signup, create up to 10 cards per prompt.",Free,$0,USD,monthly,Plus,$8,USD,monthly,Pro,$18,USD,monthly,"Gamma offers a free tier with limited features and several paid plans that provide additional credits and capabilities, with discounts for annual billing.","Aplikace Gamma umožňuje snadné a rychlé vytváření prezentací, webových stránek a dalších vizuálních materiálů. Díky umělé inteligenci můžete své nápady převést do atraktivní podoby během několika minut.
+
+• Vytváření prezentací s konzistentním brandingem během několika minut.
+• Generování grafiky a textu pro příspěvky na sociální média.
+• Rychlé vytváření dokumentů a návrhů ve formátu PDF.
+• Tvorba webových stránek a landing pages bez nutnosti programování.
+• Automatizace procesu tvorby obsahu pomocí API pro integraci s dalšími nástroji."
+Plus AI,Prezentace,https://plusai.com,True,7 day free trial with full access to paid plan features; only new customers are eligible.,Team,$20,USD,monthly,Enterprise,Contact for pricing,USD,annual,,,,,"Plus AI offers a 7-day free trial for new customers, after which users can choose between a Team plan at $20 per month or an Enterprise plan with custom pricing.","Plus AI je aplikace určená pro profesionální tvůrce prezentací, která umožňuje vytvářet a upravovat prezentace přímo v PowerPointu a Google Slides. Nabízí plnou kompatibilitu s existujícími šablonami a pracovními postupy, což usnadňuje práci s AI při tvorbě prezentací.
+
+• Vytváření prezentací přímo v PowerPointu a Google Slides bez obav o kompatibilitu.
+• Automatická konverze PDF a Word dokumentů na prezentace.
+• Použití šablon a designů pro profesionální prezentace.
+• Možnost vytvářet jednotlivé snímky pomocí AI na základě textových podkladů.
+• Přizpůsobení prezentací podle firemních brandingových a stylových pokynů."
+Beautiful.ai,Prezentace,https://www.beautiful.ai,True,14-day free trial with full access to Pro features.,Pro,$12,USD,Billed annually,Team,$40,USD,Billed annually / $50 per user/month,Enterprise,Custom,USD,Contact sales for pricing,"Beautiful.ai offers flexible pricing with plans for individuals, teams, and enterprises, including a free trial for 14 days.","Beautiful.ai je aplikace, která umožňuje uživatelům rychle a efektivně vytvářet profesionální prezentace pomocí umělé inteligence. Díky inteligentním šablonám a automatizaci designu mohou uživatelé soustředit svou pozornost na obsah a sdělení, aniž by se museli zabývat formátováním.
+
+• Vytvoření prezentace pro obchodní schůzku během několika minut.
+• Spolupráce týmu na prezentaci v reálném čase pomocí integrovaných nástrojů.
+• Použití šablon pro marketingové kampaně a prezentace produktů.
+• Generování obsahu a vizuálů pomocí AI pro školení a workshopy.
+• Export prezentací do různých formátů pro offline použití."
+TurboScribe,Přepisy a meetingy,https://turboscribe.ai,True,"3 Transcripts Daily, Each file can be up to 30 minutes long. Upload 1 file at a time.",TurboScribe Free,100% Free,USD,monthly,TurboScribe Unlimited,$10 / month,USD,yearly,TurboScribe Unlimited,$20 / month,USD,monthly,"TurboScribe offers a free tier with limited daily transcriptions and two paid plans for unlimited transcriptions, with a significant discount for annual billing.","TurboScribe je aplikace pro převod zvuku a videa na text s vysokou přesností. Umožňuje uživatelům snadno a rychle transkribovat audio a video soubory v 98+ jazycích.
+
+• Transkripce obchodních schůzek pro snadnější sdílení informací.
+• Převod videí na text pro lepší přístupnost a SEO optimalizaci.
+• Vytváření titulků pro videa v různých jazycích.
+• Zpracování akademických přednášek pro studenty a výzkumníky.
+• Automatické rozpoznávání mluvčích pro záznamy rozhovorů a podcastů."
+Microsoft Word,Přepisy a meetingy,https://www.microsoft.com/en-us/microsoft-365/word,True,"For 1 person, includes sharing and real-time collaboration, Word for the web, basic spelling and grammar, basic templates, fonts, icons, and stickers, dictation and voice commands, and 5 GB of cloud storage.",Microsoft 365 Personal,$9.99,USD,monthly,Microsoft 365 Family,$12.99,USD,monthly,Microsoft 365 Premium,$19.99,USD,monthly,"Microsoft Word offers a free tier for individual users with basic features, while paid plans provide additional features and storage options for personal and family use.","Microsoft Word je výkonný nástroj pro psaní, úpravy a sdílení dokumentů, který využívá umělou inteligenci k vylepšení produktivity a kreativity uživatelů. S funkcemi jako je Copilot a Editor, Word usnadňuje organizaci myšlenek a zajišťuje vysokou kvalitu textu.
+
+• Vytváření a úprava dokumentů s pomocí AI návrhů.
+• Použití šablon pro rychlé zahájení projektů.
+• Převod mluveného slova na text pomocí funkce Dictate.
+• Vytváření vizuálních prvků přímo v dokumentu pomocí Designer.
+• Spolupráce na dokumentech v reálném čase s ostatními uživateli."
+TLDV,Přepisy a meetingy,https://tldv.io,True,"Unlimited recordings & transcriptions in 30+ languages, AI-powered meeting summaries & insights, No upfront costs (vs. Gong’s $5,000+ base cost), Seamless CRM & workflow integrations with 5000+ apps",Free Forever,Free,USD,monthly,,,,,,,,,"tl;dv offers a Free Forever plan that provides unlimited access to AI-powered meeting transcription, recording, and insights without any time limits.","tl;dv je aplikace poháněná umělou inteligencí, která automaticky zaznamenává, přepisuje a shrnuje schůzky, což usnadňuje týmovou spolupráci a zvyšuje produktivitu. Umožňuje uživatelům soustředit se na důležité úkoly, zatímco se postará o veškeré poznámky a aktualizace CRM.
+
+• Automatické zaznamenávání a přepisování schůzek v reálném čase.
+• Generování shrnutí schůzek v několika jazycích pro mezinárodní týmy.
+• Automatické vyplňování CRM po každé schůzce, což šetří čas a zvyšuje efektivitu.
+• Analýza hovorů a sledování výkonu prodejního týmu pomocí AI.
+• Vytváření a zasílání follow-up e-mailů na základě probíraných témat během schůzek."
+Fireflies,Přepisy a meetingy,https://fireflies.ai,True,Free forever with 800 mins of storage per seat and limited AI summaries.,Free,$0,USD,monthly,Pro,$10,USD,"per seat / month, billed annually",Business,$19,USD,"per seat / month, billed annually",Fireflies offers a free tier with limited features and several paid plans that provide additional functionalities and storage options.,"Fireflies je aplikace navržená pro transkripci, shrnutí a analýzu týmových konverzací. Umožňuje uživatelům snadno zaznamenávat a organizovat schůzky, což zvyšuje efektivitu a transparentnost v komunikaci.
+
+• Transkribování a shrnutí schůzek v reálném čase pomocí AI asistenta.
+• Automatické zaznamenávání hovorů z Google Meet a jejich přepisování.
+• Vytváření úkolů a poznámek po každé schůzce pro lepší organizaci práce.
+• Vyhledávání v minulých schůzkách podle konkrétních vět a časových značek.
+• Analýza účasti a doby mluvení jednotlivých účastníků během schůzek."
+Plaud,Přepisy a meetingy,https://plaud.ai,False,,,,,,,,,,,,,,No pricing information is available on this page.,"Plaud je nejpokročilejší AI aplikace pro poznámky, která pomáhá uživatelům efektivně zachytit a organizovat informace z různých zdrojů. S více než 1 milionem spokojených uživatelů po celém světě, Plaud nabízí inovativní funkce pro záznam a analýzu poznámek.
+
+• Záznam a shrnutí schůzek pro manažery a vedoucí pracovníky.
+• Zaznamenávání důležitých informací během lékařských konzultací pro zdravotnické pracovníky.
+• Vytváření poznámek a shrnutí pro učitele během výuky a školení.
+• Záznam a analýza rozhovorů pro právníky během soudních řízení.
+• Zaznamenávání nápadů a inspirací pro tvůrce obsahu a umělce."
+Firebase,Profi nástroje pro vývojáře,https://firebase.google.com,True,"Generous no-cost usage limits, no payment method needed.",Spark plan,free,USD,monthly,Blaze plan,Pay as you go,USD,per use,,,,,Firebase offers a free tier (Spark plan) with generous usage limits and a pay-as-you-go option (Blaze plan) for additional usage.,"Firebase je platforma navržená pro podporu vývoje aplikací, která umožňuje prototypování, vývoj a nasazení moderních aplikací s umělou inteligencí. S Firebase můžete rychle a bezpečně uvádět své aplikace na trh a optimalizovat jejich výkon pomocí nástrojů pro analýzu a monitorování.
+
+• Prototypování a vývoj AI aplikací pomocí Firebase Studio.
+• Integrace Firebase pro autentizaci uživatelů v mobilních aplikacích.
+• Použití Firebase Remote Config pro dynamickou změnu chování aplikace bez nutnosti aktualizace.
+• Zajištění distribuce aplikací a sledování chyb pomocí Crashlytics.
+• Vytváření personalizovaných onboardingových procesů pro zvýšení angažovanosti uživatelů."
+Flowise AI,Profi nástroje pro vývojáře,https://flowiseai.com,False,,,,,,,,,,,,,,Na této stránce nejsou uvedeny žádné informace o cenách a plánech.,"Flowise je open-source platforma pro vývoj agentických systémů, která umožňuje uživatelům snadno vytvářet a spravovat AI agenty bez nutnosti programování. Umožňuje vytvářet složité pracovní postupy a autonomní agenty pomocí vizuálního rozhraní.
+
+• Vytváření multi-agentních systémů pro orchestraci pracovních postupů.
+• Vývoj chatbotů s podporou volání nástrojů a získávání znalostí z různých datových zdrojů.
+• Implementace lidského dohledu nad úkoly prováděnými agenty.
+• Sledování a analýza výkonu agentů pomocí nástrojů pro observabilitu.
+• Integrace API a SDK pro rozšíření a integraci do aplikací."
+Streamlit,Profi nástroje pro vývojáře,https://streamlit.io,True,Public apps only. Totally free. You just need a GitHub account.,Community Cloud,zdarma,CZK,per use,Enterprise,N/A,CZK,N/A,,,,,Streamlit offers a free tier for public apps and a paid enterprise option for private apps with enhanced features.,"Streamlit je open-source framework pro aplikace, který umožňuje snadno a rychle vytvářet webové aplikace pro analýzu dat. Uživatelé mohou své datové skripty přetvořit na sdílené webové aplikace během několika minut, a to vše v čistém Pythonu bez potřeby znalosti front-endu.
+
+• Vytvoření interaktivního dashboardu pro analýzu prodeje.
+• Prezentace strojového učení modelu pomocí webové aplikace.
+• Vytvoření vizualizace dat z CSV souboru s grafy.
+• Sestavení aplikace pro sledování počasí v reálném čase.
+• Vytvoření nástroje pro analýzu akciového trhu a porovnání různých akcií."
+WorkflowAI,Profi nástroje pro vývojáře,https://workflowai.com,False,,,,,,,,,,,,,,Na této stránce nejsou uvedeny žádné informace o cenách a plánech.,"WorkflowAI je open-source platforma, která umožňuje produktovým a inženýrským týmům spolupracovat na vývoji a iteraci AI funkcí. Umožňuje snadné nasazení AI funkcí bez potřeby programování, což zjednodušuje proces vývoje a zvyšuje efektivitu.
+
+• Vytváření AI funkcí bez potřeby programování.
+• Porovnávání různých AI modelů v jednom rozhraní.
+• Zajištění strukturovaných výstupů z AI pro snadnější integraci.
+• Rychlé nasazení aktualizací AI funkcí bez zásahu do kódu.
+• Monitorování výkonu AI v reálném čase a identifikace problémů."
+Langfuse,Profi nástroje pro vývojáře,https://langfuse.com,True,"50k units / month included, 30 days data access, 2 users, community support via GitHub",Hobby,Free,USD,monthly,Core,$29,USD,monthly,Pro,$199,USD,monthly,"Langfuse offers a free Hobby plan for hobby projects, with additional paid plans (Core, Pro, and Enterprise) that provide more features and higher usage limits.","Langfuse je platforma pro inženýrství LLM, která umožňuje sledování a optimalizaci aplikací založených na strojovém učení. Umožňuje uživatelům sledovat výkon, spravovat prompty a provádět hodnocení pro zlepšení výsledků LLM.
+
+• Sledování výkonu LLM aplikací pro identifikaci a řešení problémů.
+• Optimalizace promptů pro zlepšení kvality výstupů AI.
+• Vytváření a správa evaluačních sad pro testování modelů.
+• Integrace s OpenTelemetry pro sledování a analýzu dat.
+• Podpora pro různé knihovny a modely LLM pro flexibilní nasazení."
+Chroma,Profi nástroje pro vývojáře,https://trychroma.com,True,$5 in free credits,Starter,$0/month + usage,USD,monthly,Team,$250/month + usage,USD,monthly,Enterprise,Custom,USD,custom,"Chroma offers a simple usage-based pricing model with a free tier that includes $5 in credits, followed by charges based on usage.","Chroma je open-source databáze pro vyhledávání a získávání informací určená pro aplikace umělé inteligence. Umožňuje rychlé a efektivní vyhledávání pomocí vektorového, plného textu, regulárních výrazů a metadat, a to jak lokálně, tak v cloudu.
+
+• Vyhledávání v kódu pro AI agenty pomocí Chroma.
+• Rychlé dotazy nad miliardami indexů s nízkou latencí.
+• Integrace s modely z HuggingFace a OpenAI pro zpracování přirozeného jazyka.
+• Nasazení Chroma na cloudových platformách jako AWS a GCP.
+• Použití Chroma pro hybridní vyhledávání s multimodálními daty."
+LlamaIndex,Profi nástroje pro vývojáře,https://www.llamaindex.ai,True,10K credits per month for new users,Free,Free,USD,monthly,Starter,$500,USD,pay-as-you-go,Pro,"$5,000",USD,pay-as-you-go,"LlamaIndex offers a credit-based pricing model with a free tier providing 10K credits per month, and various paid plans that scale with usage and features.","Aplikace LlamaIndex redefinuje pracovní postupy dokumentů pomocí AI agentů, kteří extrahují informace, syntetizují poznatky a provádějí akce. Je navržena pro zpracování složitých podnikových dokumentů a zajišťuje efektivní automatizaci a přesnost.
+
+• Zrychlení rozhodovacích procesů při nákupu pomocí asistenta značky, který odpovídá na dotazy o produktech.
+• Zvýšení přesnosti zákaznické podpory o 20 % díky AI agentům, kteří pomáhají agentům při řešení dotazů.
+• Úspora 90 % času vývojářů při vytváření agentů pro analýzu investic.
+• Zpracování 500 milionů dokumentů s cílem zlepšit efektivitu pracovních postupů v různých odvětvích.
+• Automatizace zpracování faktur a zjednodušení auditu v oblasti financí a pojištění."
+Agno,Profi nástroje pro vývojáře,https://www.agno.com,True,"For building agent systems, open source, includes session monitoring & metrics, knowledge & memory management, system evaluations, and community support.",Starter,$150,USD,monthly,Custom,Custom,USD,custom,,,,,"Agno offers a free tier for building agent systems and a paid Starter plan at $150 per month, with a Custom plan available for mission-critical solutions.","AgentOS je systém, který umožňuje provozovat agenty, týmy a pracovní postupy jako jednotný systém ve vašem cloudu. Tento systém poskytuje plnou kontrolu a soukromí, protože všechna data zůstávají ve vašem prostředí.
+
+• Vytvoření AI agenta pro automatizaci zákaznické podpory.
+• Použití agenta pro analýzu konkurence a tržních trendů.
+• Automatizace procesů v oblasti financí pomocí agentů.
+• Vytvoření pracovního postupu pro generování a publikaci příspěvků na sociálních médiích.
+• Implementace agenta pro správu znalostí a paměti v rámci organizace."
+Superface,Profi nástroje pro vývojáře,https://superface.ai,True,"We support early builders in prototyping and experimenting on their AI journey. We'll reach out to you once you exceed 5,000+ tool calls per month and set up a business model with you (if needed). Until then, the service is free.",Developers,$49,USD,monthly,Professional,$299,USD,monthly,Enterprise,"$1,499",USD,monthly,"The pricing model includes a free tier for early builders and three paid plans: Developers, Professional, and Enterprise, each with increasing features and tool call limits.","Superface je platforma pro nástroje AI, která umožňuje připojení k více než 200 spolehlivým službám. Je navržena tak, aby zlepšila výkon AI agentů a usnadnila integraci různých nástrojů pro efektivní správu projektů.
+
+• Uložení nového leadu do CRM systému.
+• Zaznamenání poznámek z meetingu do CRM.
+• Automatizace účetních procesů pomocí AI agentů.
+• Zlepšení zákaznické zkušenosti (CX) prostřednictvím inteligentních nástrojů.
+• Zrychlení vývoje a integrace nových nástrojů bez potřeby vývojářského času."
+Replicate,Profi nástroje pro vývojáře,https://replicate.com,False,,Public Models,Pay-per-use,USD,per use,Private Models,Pay-per-use,USD,per use,Hardware Pricing,Varies,USD,per use,"Replicate uses a pay-per-use model for both public and private models, with costs based on the time taken to run models or the amount of input/output processed.","Aplikace Replicate umožňuje uživatelům generovat a nasazovat modely strojového učení s minimálním úsilím. Umožňuje rychlé a efektivní vytváření AI funkcí pro různé účely, jako je generování obrázků, videí a hudby.
+
+• Generování obrázků na základě textového popisu.
+• Vytváření hudby z textového zadání.
+• Restaurování poškozených obrázků pomocí AI.
+• Generování videí z obrázků.
+• Nasazení vlastních modelů strojového učení pro specifické úkoly."
+Firecrawl,Data a web scraping,https://www.firecrawl.dev,True,"500 credits, 2 concurrent requests, low rate limits",Free Plan,$0,USD,one-time,Hobby,$12/month,USD,monthly,Standard,$47/month,USD,monthly,Firecrawl offers a flexible pricing model with a free plan and various paid tiers that scale with usage.,"Firecrawl je výkonná API pro web scraping, která umožňuje snadno extrahovat data z webových stránek a přetvářet je na formát připravený pro AI aplikace. Je navržena tak, aby poskytovala čistá a strukturovaná data z jakéhokoli webu, což usnadňuje vývoj a integraci do různých aplikací.
+
+• Vylepšení AI asistentů pomocí aktuálních webových informací.
+• Obohacení prodejních dat o informace z webových adresářů.
+• Integrace scrapingových funkcí do kódovacích editorů pro vývojáře.
+• Vytváření AI aplikací s využitím webových dat pro zákazníky.
+• Provádění hloubkového výzkumu a extrakce komplexních informací pro akademické účely."
+Apify,Data a web scraping,https://apify.com,True,"$5 to spend in Apify Store or on your own Actors, $0.3 per compute unit, Community support, No Apify Store discount",Free,$0,USD,monthly,Starter,$39,USD,monthly,Scale,$199,USD,monthly,Apify offers a free tier with limited usage and several paid plans that provide additional features and usage credits.,"Apify je platforma pro získávání aktuálních webových dat, která se používá pro aplikace umělé inteligence, monitorování sociálních médií, konkurenceschopnou analýzu, generování leadů a výzkum produktů. Umožňuje uživatelům snadno extrahovat data z různých webových stránek a integrovat je do svých aplikací.
+
+• Extrakce dat z TikTok profilů a videí pro analýzu trendů.
+• Získávání informací o firmách a recenzích z Google Maps pro marketingové účely.
+• Stahování příspěvků a komentářů z Instagramu pro analýzu uživatelského chování.
+• Sběr dat o produktech z Amazonu pro porovnání cen a analýzu trhu.
+• Extrahování dat z příspěvků na Facebooku pro sledování angažovanosti a sentimentu uživatelů."
+Browse.ai,Data a web scraping,https://www.browse.ai,True,"50 credits per month, 2 websites, 3 users, unlimited robots, full platform access.",Free,Free,USD,monthly,Personal,$48,USD,monthly,Professional,$87,USD,monthly,"Browse AI offers a free tier with limited credits and several paid plans that scale with usage, including options for monthly and annual billing.","Browse AI je přední platforma pro web scraping a monitoring, která umožňuje uživatelům snadno extrahovat, sledovat a integrovat data z téměř jakékoli webové stránky bez nutnosti programování. S více než 770 000 uživateli po celém světě poskytuje spolehlivá data a automatizované pracovní postupy.
+
+• Sledování změn na webových stránkách a automatické upozornění na aktualizace.
+• Extrakce cen a produktových informací z e-commerce stránek jako Amazon nebo eBay.
+• Monitorování konkurence a analýza jejich produktových nabídek a cen.
+• Sběr dat o nemovitostech z realitních portálů pro analýzu trhu.
+• Automatizace generování leadů z obchodních adresářů a webových stránek."
+Exa,Data a web scraping,https://exa.ai,True,$10 in free credits for individuals and small teams.,Pay as you go,$5,USD,per use,Contents,$1,USD,per use,Answer,$5,USD,per use,"Exa offers a flexible pricing model with a pay-as-you-go option, allowing users to pay for what they use, along with custom plans for high-volume needs.","Exa je vysoce výkonná API pro webové vyhledávání, která umožňuje uživatelům přístup k relevantním datům z celého webu. Je navržena tak, aby splnila potřeby různých odvětví, jako je finance, marketing, a výzkum, a poskytuje uživatelům možnost filtrovat výsledky podle specifických kritérií.
+
+• Vyhledávání historických dat o pohybu na trhu a analýza trendů v oblasti financí.
+• Hledání a shromažďování informací o kandidátech z LinkedIn a dalších profilů pro náborové účely.
+• Přístup k aktuálním zprávám a trendům pro zvýšení produktivity a informovanosti.
+• Provádění hloubkového výzkumu v jakémkoli odvětví pomocí Websets pro získání odborných informací.
+• Vyhledávání a analýza marketingových trendů a materiálů pro vytváření nových kampaní."
+Relume,UX/UI design,https://relume.io,True,30 components available in the free plan.,Free,Free,USD,monthly,Starter,$15,USD,monthly,Pro,$30,USD,monthly,Relume offers a free tier with limited access to components and several paid plans that provide additional features and capabilities.,"Aplikace Relume je navržena pro usnadnění procesu webového designu a vývoje. Pomocí umělé inteligence umožňuje uživatelům rychle vytvářet sitemapy, drátové modely a stylové příručky, což šetří čas a zvyšuje efektivitu.
+
+• Vytvoření kompletní sitemap pro nový projekt během několika sekund.
+• Generování drátových modelů z sitemapy jedním kliknutím.
+• Rychlé schvalování designových konceptů díky nástroji pro stylové příručky.
+• Spolupráce s týmem a klienty prostřednictvím sdílení projektů a komentářů.
+• Export komponent do Figma, Webflow nebo React pro snadnou integraci."
+UX Pilot,UX/UI design,https://uxpilot.ai,True,"Test UX Pilot for free with complimentary credits to explore AI models, allowing you to generate wireframes, high-fidelity designs, and predictive heatmaps without any cost.",Basic,Free,USD,monthly,Pro,$20,USD,monthly,Enterprise,Custom,USD,annual,"UX Pilot offers a free tier for testing, with additional paid plans that provide more features and capabilities.","Aplikace UX Pilot využívá umělou inteligenci k urychlení a zefektivnění procesu návrhu uživatelského rozhraní. Umožňuje designérům a produktovým týmům rychle generovat vysoce kvalitní návrhy a prototypy, což šetří čas a zvyšuje kreativitu.
+
+• Rychlé generování vysoce kvalitních návrhů uživatelského rozhraní.
+• Vytváření flexibilních drátových modelů pro desktop a mobilní zařízení.
+• Generování toků obrazovek pro vizualizaci uživatelských cest.
+• Použití osvědčených UX rámců pro zahájení návrhového procesu.
+• Vytváření diagramů a map stránek přímo v aplikaci Figjam."
+Chatbase,Zákaznická podpora,https://www.chatbase.com,True,"100 message credits/month, 1 AI agent, 1 AI Action per AI agent, 400 KB per AI agent, 1 seat, 10 links to train your agent on. AI agents get deleted after 14 days of inactivity on the free plan.",Free,$0,USD,per month,Hobby,$40,USD,per month,Standard,$150,USD,per month,Chatbase offers a free tier with limited features and several paid plans that scale in features and pricing.,"Chatbase je komplexní platforma pro vytváření a nasazení AI podpůrných agentů pro vaše podnikání. Umožňuje snadno trénovat agenty, kteří řeší složité problémy zákazníků a zlepšují obchodní výsledky.
+
+• Vytvoření a nasazení AI agenta pro zákaznickou podporu.
+• Automatizace odpovědí na časté dotazy zákazníků.
+• Zajištění personalizovaných odpovědí na základě informací o uživatelském účtu.
+• Integrace s externími systémy pro správu objednávek a CRM.
+• Analýza výkonu agenta a optimalizace jeho odpovědí."
+Intercom FIN,Zákaznická podpora,https://www.intercom.com/fin,True,"14-day free trial with access to all features in Essential, Advanced, and Expert plans.",Essential,"$29 per seat/mo, billed annually",USD,annual,Advanced,"$85 per seat/mo, billed annually",USD,annual,Expert,"$132 per seat/mo, billed annually",USD,annual,"Intercom offers a resolution-based pricing model for its AI Agent at $0.99 per resolution, with three main plans (Essential, Advanced, Expert) that charge per seat.","Aplikace Fin je nejvýkonnější AI agent pro zákaznický servis, který dokáže efektivně řešit i složité dotazy. Díky neustálému zlepšování a analýze výkonu poskytuje konzistentní a přesnou podporu napříč různými kanály.
+
+• Fin dokáže školit zaměstnance na složité dotazy pomocí interních procedur a znalostí.
+• Aplikace umožňuje simulovat zákaznické konverzace před spuštěním do ostrého provozu.
+• Fin je nasazen napříč všemi kanály, jako jsou hlas, e-mail, chat a sociální sítě.
+• Pomocí AI analýzy může Fin zlepšovat svůj výkon a poskytovat lepší zákaznické zkušenosti.
+• Fin se bezproblémově integruje s existujícími helpdeskovými systémy, jako jsou Zendesk a Salesforce."
+Shipable,Zákaznická podpora,https://www.shipable.ai,True,"Základní plán je zdarma, ale má omezené funkce a možnosti přizpůsobení.",Basic,zdarma,CZK,měsíční,Pro,$20,USD,měsíční,Enterprise,na vyžádání,USD,roční,Shipable nabízí bezplatný základní plán s omezenými funkcemi a placené plány s rozšířenými možnostmi a podporou.,"Shipable je aplikace, která umožňuje rychlé a snadné vytváření AI agentů na míru bez potřeby programování. Uživatelé mohou jednoduše popsat, co chtějí, a aplikace automaticky vytvoří plně funkční a značkované AI agenty.
+
+• Vytvoření AI agenta pro generování leadů, který automaticky shromažďuje kontaktní informace potenciálních zákazníků.
+• Nasazení AI asistenta pro onboarding nových zaměstnanců, který odpovídá na otázky a poskytuje potřebné informace.
+• Automatizace odpovědí na časté dotazy v oblasti HR, IT a financí pomocí AI agenta.
+• Vytvoření AI agenta pro analýzu dat, který umožňuje uživatelům klást otázky a získávat přehledy v přirozeném jazyce.
+• Nasazení AI agenta na platformách jako WhatsApp a Slack pro zajištění přirozené interakce s uživateli."
+Phantombuster,Komunikace a marketing,https://phantombuster.com,False,,Basic,$20,USD,monthly,Pro,$50,USD,monthly,Enterprise,Custom,USD,monthly,"PhantomBuster offers three pricing plans: Basic, Pro, and Enterprise, catering to different business needs with varying execution times, AI credits, and support options.","PhantomBuster je nástroj, který automatizuje proces generování leadů a umožňuje uživatelům získávat unikátní data o potenciálních zákaznících z různých platforem. Pomocí pokročilých automatizací a AI pomáhá uživatelům efektivně budovat prodejní pipeline a oslovovat cílové skupiny s personalizovanými zprávami.
+
+• Skenování a extrakce dat v reálném čase z více než 15 platforem pro identifikaci nových leadů.
+• Segmentace a obohacení seznamů leadů pomocí více než 1000 živých datových bodů, což zajišťuje, že každý lead odpovídá ideálnímu zákaznickému profilu.
+• Automatizované zasílání personalizovaných zpráv na LinkedIn pomocí AI, což zvyšuje míru konverze.
+• Monitorování existujících seznamů leadů pro získání nových informací, jako jsou změny zaměstnání a sociální interakce.
+• Exportování seznamů leadů přímo do CRM, jako je HubSpot, pro snadné sledování a správu kontaktů."
+Hyperbrowser,Infrastruktura pro AI,https://www.hyperbrowser.ai,True,"1,000 Credits Included, 1 Concurrent Browser, 7 Days Data Retention",Free,$0,USD,free,Startup,$30,USD,monthly,Scale,$100,USD,monthly,Flexible credit-based pricing with a free tier and multiple paid plans.,"Aplikace Hyperbrowser slouží k automatizaci prohlížečů pro úkoly jako je web scraping, testování a vyplňování formulářů. Umožňuje uživatelům efektivně shromažďovat a strukturovat data z webových stránek.
+
+• Automatizace vyhledávání a rezervace letů na webových stránkách.
+• Scraping dat z e-commerce stránek pro analýzu cen a produktů.
+• Testování webových aplikací pomocí automatizovaných skriptů.
+• Vyplňování online formulářů a registrací bez manuálního zásahu.
+• Řešení CAPTCHA pro zjednodušení automatizovaných pracovních postupů."
+TheAgentic,Infrastruktura pro AI,https://www.theagentic.ai,False,,,,,,,,,,,,,,"Cenové informace nejsou k dispozici, stránka nebyla nalezena.","Aplikace TheAgentic poskytuje robustní infrastrukturu pro vývoj a nasazení AI agentů, což umožňuje startupům a SaaS společnostem efektivně budovat a škálovat své AI projekty. Díky nástrojům a frameworkům, které aplikace nabízí, mohou uživatelé snadno implementovat pokročilé AI funkce do svých produktů.
+
+• Automatizace prodeje pomocí AI agenta pro plánování schůzek, což zvyšuje konverze a efektivitu prodeje.
+• Vytváření a publikování reklamních kampaní pro Google a Meta Ads pomocí AI, což zvyšuje efektivitu marketingových aktivit.
+• Analýza rizik v oblasti kryptoměn pomocí AI agenta, který chrání investory a poskytuje důležité informace.
+• Dlouhodobé zpracování dokumentů v oblastech jako finance, medicína a právo, což zajišťuje přesnost a efektivitu v analýzách.
+• Vytváření vlastních doménově specifických LLM pro zajištění maximální bezpečnosti a ochrany duševního vlastnictví."
+E2B,Infrastruktura pro AI,https://e2b.dev,True,"One-time $100 of usage in credits, Up to 1-hour sandbox session length, Up to 20 concurrently running sandboxes",Hobby,Free,USD,per use,Pro,$150,USD,monthly,Ultimate,Contact us for custom solution with special pricing,USD,custom,"Free Hobby tier available with usage costs, and paid Pro and Ultimate plans for more features.","E2B je open-source platforma, která poskytuje bezpečné a izolované prostředí pro vývoj a testování AI agentů. Umožňuje uživatelům provádět složité úkoly, jako je analýza dat, kódování a strojové učení, v reálném čase.
+
+• Agent pro hluboký výzkum, který provádí časově náročný výzkum na velkých datech.
+• Analýza a vizualizace dat pomocí izolovaného sandboxu pro bezpečné prozkoumání dat a generování grafů.
+• Bezpečné provádění kódu a přístup k internetu pro AI agenty.
+• Použití sandboxu jako běhového prostředí pro AI generované aplikace.
+• Využití reinforcement learningu k běhu a hodnocení odměnových funkcí v tisících sandboxech."
