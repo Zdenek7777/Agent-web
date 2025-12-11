@@ -57,17 +57,60 @@ const agents: Agent[] = [
 ];
 
 export default function Home() {
-  const [selectedAgent, setSelectedAgent] = useState<Agent>(agents[0]);
+  const [selectedAgent, setSelectedAgent] = useState<Agent | null>(null);
 
   return (
-    <div className="flex h-screen bg-gradient-to-br from-primary-50 via-white to-secondary-50">
+    <div className="flex h-screen bg-white">
       <Sidebar 
         agents={agents} 
         selectedAgent={selectedAgent}
         onSelectAgent={setSelectedAgent}
       />
-      <main className="flex-1 overflow-hidden">
-        <AgentView agent={selectedAgent} />
+      <main className="flex-1 overflow-hidden bg-gray-50">
+        {selectedAgent ? (
+          <AgentView agent={selectedAgent} />
+        ) : (
+          <div className="h-full flex flex-col items-center justify-center p-8">
+            <div className="text-center mb-12">
+              <div className="inline-block mb-6">
+                <div className="w-20 h-20 rounded-full bg-gradient-to-br from-purple-500 via-pink-500 to-blue-500 shadow-lg"></div>
+              </div>
+              <h1 className="text-5xl font-bold text-gray-900 mb-4">
+                Jak to jde?
+              </h1>
+              <p className="text-xl text-gray-600 mb-12">
+                Vyberte AI agenta, který vám pomůže s vaším úkolem
+              </p>
+            </div>
+
+            <div className="w-full max-w-6xl">
+              <h2 className="text-2xl font-semibold text-gray-800 mb-6">
+                Co se vám nejvíc hodí?
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                {agents.map((agent) => (
+                  <button
+                    key={agent.id}
+                    onClick={() => setSelectedAgent(agent)}
+                    className="bg-white rounded-xl p-6 shadow-sm hover:shadow-lg transition-all duration-200 border border-gray-100 hover:border-purple-200 group text-left"
+                  >
+                    <div className="mb-4">
+                      <div className="w-16 h-16 rounded-lg bg-gradient-to-br from-purple-100 to-pink-100 flex items-center justify-center text-3xl group-hover:scale-110 transition-transform">
+                        {agent.icon}
+                      </div>
+                    </div>
+                    <h3 className="text-lg font-bold text-gray-900 mb-2">
+                      {agent.name}
+                    </h3>
+                    <p className="text-sm text-gray-600 line-clamp-2">
+                      {agent.description}
+                    </p>
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
       </main>
     </div>
   );

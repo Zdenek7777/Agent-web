@@ -97,53 +97,62 @@ export default function EmailInput({ onProcess, isProcessing }: EmailInputProps)
   };
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-6">
       <div
         {...getRootProps()}
-        className={`border-2 border-dashed rounded-lg p-8 text-center cursor-pointer transition-colors ${
+        className={`border-2 border-dashed rounded-xl p-12 text-center cursor-pointer transition-all ${
           isDragActive
-            ? 'border-primary-400 bg-primary-50'
-            : 'border-gray-300 hover:border-primary-300 hover:bg-gray-50'
+            ? 'border-purple-400 bg-purple-50 scale-[1.02]'
+            : 'border-gray-200 hover:border-purple-300 hover:bg-gray-50'
         }`}
       >
         <input {...getInputProps()} />
-        <div className="space-y-2">
-          <svg
-            className="mx-auto h-12 w-12 text-gray-400"
-            stroke="currentColor"
-            fill="none"
-            viewBox="0 0 48 48"
-          >
-            <path
-              d="M28 8H12a4 4 0 00-4 4v20m32-12v8m0 0v8a4 4 0 01-4 4H12a4 4 0 01-4-4v-4m32-4l-3.172-3.172a4 4 0 00-5.656 0L28 28M8 32l9.172-9.172a4 4 0 015.656 0L28 28m0 0l4 4m4-24h8m-4-4v8m-12 4h.02"
-              strokeWidth={2}
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-          </svg>
-          <p className="text-sm text-gray-600">
-            {isDragActive
-              ? 'Pusťte soubor zde...'
-              : 'Přetáhněte .eml soubor sem nebo klikněte pro výběr'}
-          </p>
-          <p className="text-xs text-gray-400">
-            Podporované formáty: .eml, .txt
-          </p>
+        <div className="space-y-3">
+          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-gray-100">
+            <svg
+              className="h-8 w-8 text-gray-400"
+              stroke="currentColor"
+              fill="none"
+              viewBox="0 0 48 48"
+            >
+              <path
+                d="M28 8H12a4 4 0 00-4 4v20m32-12v8m0 0v8a4 4 0 01-4 4H12a4 4 0 01-4-4v-4m32-4l-3.172-3.172a4 4 0 00-5.656 0L28 28M8 32l9.172-9.172a4 4 0 015.656 0L28 28m0 0l4 4m4-24h8m-4-4v8m-12 4h.02"
+                strokeWidth={2}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+          </div>
+          <div>
+            <p className="text-base font-medium text-gray-700">
+              {isDragActive
+                ? 'Pusťte soubor zde...'
+                : 'Přetáhněte .eml soubor sem'}
+            </p>
+            <p className="text-sm text-gray-500 mt-1">
+              nebo klikněte pro výběr souboru
+            </p>
+          </div>
           {fileName && (
-            <p className="text-xs text-primary-600 mt-2">✓ {fileName}</p>
+            <div className="inline-flex items-center gap-2 px-4 py-2 bg-green-50 text-green-700 rounded-lg text-sm font-medium mt-2">
+              <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+              </svg>
+              {fileName}
+            </div>
           )}
         </div>
       </div>
 
-      <div className="relative">
+      <div className="relative bg-white rounded-xl border border-gray-200 shadow-sm">
         <textarea
           value={textContent}
           onChange={(e) => setTextContent(e.target.value)}
           placeholder="Nebo vložte obsah emailu zde (copy-paste)..."
-          className="w-full h-64 p-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent resize-none font-mono text-sm"
+          className="w-full h-72 p-6 border-0 rounded-xl focus:ring-2 focus:ring-purple-500 focus:outline-none resize-none text-sm text-gray-700 placeholder-gray-400"
         />
         {textContent && (
-          <div className="absolute top-2 right-2 text-xs text-gray-400">
+          <div className="absolute bottom-4 right-4 text-xs text-gray-400 bg-white px-2 py-1 rounded">
             {textContent.length} znaků
           </div>
         )}
@@ -152,9 +161,24 @@ export default function EmailInput({ onProcess, isProcessing }: EmailInputProps)
       <button
         onClick={handleSubmit}
         disabled={!textContent.trim() || isProcessing}
-        className="w-full bg-gradient-to-r from-primary-600 to-primary-700 text-white py-3 px-6 rounded-lg font-semibold hover:from-primary-700 hover:to-primary-800 disabled:opacity-50 disabled:cursor-not-allowed transition-all shadow-lg hover:shadow-xl"
+        className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white py-4 px-6 rounded-xl font-semibold hover:from-purple-700 hover:to-pink-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all shadow-lg hover:shadow-xl flex items-center justify-center gap-2"
       >
-        {isProcessing ? 'Zpracovávání...' : 'Zpracovat email'}
+        {isProcessing ? (
+          <>
+            <svg className="animate-spin h-5 w-5" fill="none" viewBox="0 0 24 24">
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+            Zpracovávání...
+          </>
+        ) : (
+          <>
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+            </svg>
+            Zpracovat email
+          </>
+        )}
       </button>
     </div>
   );

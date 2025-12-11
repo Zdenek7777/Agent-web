@@ -47,33 +47,32 @@ export default function AgentView({ agent }: AgentViewProps) {
   return (
     <div className="flex flex-col h-full bg-white">
       {/* Header */}
-      <div className={`p-6 border-b ${
-        agent.color === 'primary' 
-          ? 'bg-gradient-to-r from-primary-50 to-primary-100/50' 
-          : 'bg-gradient-to-r from-secondary-50 to-secondary-100/50'
-      }`}>
+      <div className="p-8 border-b border-gray-100 bg-white">
         <div className="flex items-center gap-4">
-          <span className="text-4xl">{agent.icon}</span>
+          <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-purple-100 to-pink-100 flex items-center justify-center text-2xl">
+            {agent.icon}
+          </div>
           <div>
-            <h2 className="text-2xl font-bold text-gray-900">{agent.name}</h2>
-            <p className="text-sm text-gray-600 mt-1">{agent.description}</p>
+            <h2 className="text-3xl font-bold text-gray-900">{agent.name}</h2>
+            <p className="text-base text-gray-600 mt-1">{agent.description}</p>
           </div>
         </div>
       </div>
 
-      {/* Instructions */}
-      <div className="p-6 bg-gray-50 border-b border-gray-200">
-        <h3 className="text-sm font-semibold text-gray-700 mb-3">Instrukce:</h3>
-        <div className="prose prose-sm max-w-none">
-          <pre className="whitespace-pre-wrap text-sm text-gray-600 font-sans">
-            {agent.instructions}
-          </pre>
-        </div>
-      </div>
-
       {/* Main Content */}
-      <div className="flex-1 overflow-y-auto p-6">
-        <div className="max-w-4xl mx-auto space-y-6">
+      <div className="flex-1 overflow-y-auto">
+        <div className="max-w-4xl mx-auto p-8 space-y-8">
+          {/* Instructions Card */}
+          <div className="bg-gradient-to-br from-gray-50 to-white rounded-xl p-6 border border-gray-100 shadow-sm">
+            <h3 className="text-lg font-semibold text-gray-900 mb-4">Jak to funguje:</h3>
+            <div className="prose prose-sm max-w-none">
+              <pre className="whitespace-pre-wrap text-sm text-gray-700 font-sans leading-relaxed">
+                {agent.instructions}
+              </pre>
+            </div>
+          </div>
+
+          {/* Agent Content */}
           {agent.id === 'email-response' && (
             <>
               <EmailInput 
@@ -90,9 +89,14 @@ export default function AgentView({ agent }: AgentViewProps) {
           )}
           
           {agent.id !== 'email-response' && (
-            <div className="text-center py-12 text-gray-500">
-              <p className="text-lg">Tento agent bude brzy dostupný</p>
-              <p className="text-sm mt-2">Zatím je k dispozici pouze Email Response Agent</p>
+            <div className="text-center py-16">
+              <div className="inline-block mb-4">
+                <div className="w-20 h-20 rounded-full bg-gradient-to-br from-purple-100 to-pink-100 flex items-center justify-center text-4xl">
+                  {agent.icon}
+                </div>
+              </div>
+              <p className="text-xl font-semibold text-gray-900 mb-2">Tento agent bude brzy dostupný</p>
+              <p className="text-sm text-gray-500">Zatím je k dispozici pouze Email Response Agent</p>
             </div>
           )}
         </div>
